@@ -1,7 +1,7 @@
 import Flower from "../assets/Flower.png";
 import Ring1 from "../assets/Ring1.png";
 import Ring2 from "../assets/Ring2.png";
-import Ring3 from "../assets/Ring3.png";
+import Ring3 from "../assets/RIng3.png";
 import Ring4 from "../assets/Ring4.png";
 
 export const collections = [
@@ -149,8 +149,8 @@ export const catalogProducts = [
     category: "Rings",
     name: "Moonlit Band Ring",
     price: "NPR 3,200",
-    image:
-    Ring4,    shortDescription: "A clean silver band with a polished everyday finish.",
+    image: Ring4,
+    shortDescription: "A clean silver band with a polished everyday finish.",
     details:
       "Designed for daily wear, this ring keeps a slim profile with a soft shine that pairs easily with traditional and modern looks.",
     material: "925 sterling silver",
