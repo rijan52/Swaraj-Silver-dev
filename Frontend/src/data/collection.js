@@ -3,26 +3,25 @@ import Ring1 from "../assets/Ring1.png";
 import Ring2 from "../assets/Ring2.png";
 import Ring3 from "../assets/RIng3.png";
 import Ring4 from "../assets/Ring4.png";
+import Gallery2 from "../assets/Gallery2.png";
+import Gallery3 from "../assets/Gallery3.png";
 
 export const collections = [
   {
     title: "Everyday Silver",
     description: "Minimal silver jewellery designed for daily elegance.",
-    image:
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=1200&auto=format&fit=crop",
+    image: Ring3,
   },
   {
     title: "Statement Pieces",
     description: "Bold rings, earrings, and necklaces for special moments.",
     image:
-      "https://images.unsplash.com/photo-1635767798638-3e25273a8236?q=80&w=1200&auto=format&fit=crop",
-  },
+  Gallery3,  },
   {
     title: "Bridal Silver",
     description: "Elegant silver pieces inspired by heritage and celebration.",
     image:
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?q=80&w=1200&auto=format&fit=crop",
-  },
+    Gallery2,  },
 ];
 
 export const catalogProducts = [
